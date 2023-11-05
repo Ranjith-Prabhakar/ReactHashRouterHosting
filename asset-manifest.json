@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.d0df9718.css",
-    "main.js": "/static/js/main.2100b951.js",
-    "index.html": "/index.html",
-    "main.d0df9718.css.map": "/static/css/main.d0df9718.css.map",
-    "main.2100b951.js.map": "/static/js/main.2100b951.js.map"
+    "main.css": "/ReactRouterHosting/static/css/main.d0df9718.css",
+    "main.js": "/ReactRouterHosting/static/js/main.2100b951.js",
+    "index.html": "/ReactRouterHosting/index.html",
+    "main.d0df9718.css.map": "/ReactRouterHosting/static/css/main.d0df9718.css.map",
+    "main.2100b951.js.map": "/ReactRouterHosting/static/js/main.2100b951.js.map"
   },
   "entrypoints": [
     "static/css/main.d0df9718.css",
